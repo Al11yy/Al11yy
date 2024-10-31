@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Al11yy
 - 👀 I’m interested in women
 - 🌱 I’m currently learning on school
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : dm me
 - 😄 Pronouns: food
 - ⚡ Fun fact: i love ramen
