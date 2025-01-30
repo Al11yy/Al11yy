@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Al11yy my full name is Ghazam Al Aliy Raavndy you can call me Aliy
+- 👋 Hi, I’m @Al11yy my full name is Ghazam Al Aliy Ravandy you can call me Aliy
 - 👀 I’m interested in women
 - 🌱 I’m currently learning on school
 - 📫 How to reach me : dm me
