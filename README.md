@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Al11yy my full name is Ghazam Al Aliy Ravandy you can call me Aliy
 - 👀 I’m interested in women
-- 🏫 I’m currently learning on school
+- 🏫 I’m currently learning on SMK PESAT ITXPRO
 - 📫 How to reach me : dm me
 - 😄 Pronouns: food
 - ⚡ Fun fact: i love ramen
