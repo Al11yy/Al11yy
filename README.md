@@ -6,7 +6,7 @@ and I'm a student, from Bogor, Indonesia 🇮🇩</p>
 - 🏫 I’m A student at [SMK informatika pesat](https://smkpesat.sch.id/)
 - ✨ I love Watching anime and read Manwha
 - 🎮 I'm a Pro gamer on Valorant, Fortnite And Marvel rivals
-- 🧑‍💻 My first line of code was when i'm 15yr old
+- 🧑‍💻 i'm 15yr old
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/690856519989985320) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@liyy356) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/liyy13) 
