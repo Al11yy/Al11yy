@@ -1,3 +1,5 @@
+![banner for git](https://github.com/user-attachments/assets/d9796886-d1da-4726-9d4d-aff502c14f73)
+
 <h1>Hi 👋</h1>
 <p>My name is Aliy🔥<br>
 and I'm a student, from Bogor, Indonesia 🇮🇩</p>
