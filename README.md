@@ -1,9 +1,11 @@
 
+<h1>Hi 👋</h1>
+
 ![setup for git 1](https://github.com/user-attachments/assets/0337487e-54ac-4999-8968-bb09f5ad77a3)
 
 
-<h1>Hi 👋</h1>
-<p>My name is Aliy🔥<br>
+
+<p>My name is Aliy🔥
 and I'm a student, from Bogor, Indonesia 🇮🇩</p>
 
 # 💫 About Me:
