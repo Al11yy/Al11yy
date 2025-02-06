@@ -1,4 +1,6 @@
-![banner for git](https://github.com/user-attachments/assets/d9796886-d1da-4726-9d4d-aff502c14f73)
+
+![setup for git 1](https://github.com/user-attachments/assets/0337487e-54ac-4999-8968-bb09f5ad77a3)
+
 
 <h1>Hi 👋</h1>
 <p>My name is Aliy🔥<br>
