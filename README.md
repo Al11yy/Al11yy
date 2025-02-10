@@ -1,7 +1,7 @@
 
 <h1>Hi 👋</h1>
 
-![setup for git 1](https://github.com/user-attachments/assets/0337487e-54ac-4999-8968-bb09f5ad77a3)
+![setup for git 1](https://github.com/user-attachments/assets/208b06a8-5d50-4062-9d29-a577041cf9e4)
 
 
 
