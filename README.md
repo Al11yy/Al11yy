@@ -1,7 +1,8 @@
 
 <h1>Hi 👋</h1>
 
-![setup for git 1](https://github.com/user-attachments/assets/208b06a8-5d50-4062-9d29-a577041cf9e4)
+![BannerBuatGit](https://github.com/user-attachments/assets/2577304b-6cb9-437d-ac99-ffe371caf350)
+
 
 
 
