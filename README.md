@@ -30,16 +30,6 @@ and I'm a student, from Bogor, Indonesia 🇮🇩</h3>
 </div>
 
 
-## 🎶My recent Spotify
-
-<div align="center">
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zbqjirbkysgk7zmxiuglrxbg6i)](https://open.spotify.com/user/31zbqjirbkysgk7zmxiuglrxbg6i)
-
-</div>
-
-
-
 
 ---
 
