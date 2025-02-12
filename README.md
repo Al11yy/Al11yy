@@ -4,7 +4,6 @@
 ![BannerBuatGit](https://github.com/user-attachments/assets/2577304b-6cb9-437d-ac99-ffe371caf350) 
 
 
-
 <h3>My name is Aliy🔥
 and I'm a student, from Bogor, Indonesia 🇮🇩</h3>
 
@@ -27,7 +26,13 @@ and I'm a student, from Bogor, Indonesia 🇮🇩</h3>
 
 
 ## 🎶My recent Spotify
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zbqjirbkysgk7zmxiuglrxbg6i)](https://open.spotify.com/user/31zbqjirbkysgk7zmxiuglrxbg6i)  
+
+<div align="center">
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zbqjirbkysgk7zmxiuglrxbg6i)](https://open.spotify.com/user/31zbqjirbkysgk7zmxiuglrxbg6i)
+
+</div>
+
 
 
 
