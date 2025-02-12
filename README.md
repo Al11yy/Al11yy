@@ -9,7 +9,7 @@ and I'm a student, from Bogor, Indonesia 🇮🇩</h3>
 
 
 # 💫 About Me:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zbqjirbkysgk7zmxiuglrxbg6i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=212121&interchange=false&bar_color_cover=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
+
 - 🏫 I’m a student at [SMK informatika pesat](https://smkpesat.sch.id/)
 - ✨ I love Watching anime and read Manwha
 - 🎮 I'm a Pro gamer on Valorant, Fortnite And Marvel rivals
@@ -23,6 +23,12 @@ and I'm a student, from Bogor, Indonesia 🇮🇩</h3>
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## 🎧Now Listening
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zbqjirbkysgk7zmxiuglrxbg6i&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 
 ## 🎶My recent Spotify
