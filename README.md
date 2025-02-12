@@ -1,20 +1,23 @@
 
-<h1>Hi 👋</h1> 
+
 
 ![my-github-banner](https://github.com/user-attachments/assets/d5fee08b-2532-4d05-9dcd-2f27fb70f1f3)
 
-<h3>My name is Aliy🔥
-and I'm a student, from Bogor, Indonesia 🇮🇩</h3>
+# Hi 👋  
+**I’m Aliy 🔥, a student from Bogor, Indonesia 🇮🇩**  
+`~2024: First line of code, endless possibilities.`
 
+---
 
-# 💫 About Me:
+# 💫 About Me:  
+-🎓 **Currently studying** at [SMK Informatika Pesat](https://smkinformatikapesat.sch.id)  
+-✨ **Passionate about** anime and manhwa. <br>
+-🎮 **Competitive gamer** in Valorant, Fortnite, and Marvel Rivals. <br>
+-🌱 **Continuous Learner:** I believe every day is an opportunity to grow and improve.  
+-🎯 **Goals:** I aim to master full-stack and Machine learning or ai, one step at a time.  
+-🎉 **15 years old and always ready to explore new adventures.**
 
-- 🏫 I’m a student at [SMK informatika pesat](https://smkpesat.sch.id/)
-- ✨ I love Watching anime and read Manwha
-- 🎮 I'm a Pro gamer on Valorant, Fortnite And Marvel rivals
-- 🧑‍💻 i'm 15yr old
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/690856519989985320) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@liyy356) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/liyy13) 
 
 
