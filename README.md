@@ -1,8 +1,7 @@
 
 <h1>Hi 👋</h1> 
 
-![banner-for-github](https://github.com/user-attachments/assets/8ffc0597-bff8-4f0e-bb03-08b382425d84)
-
+![my-github-banner](https://github.com/user-attachments/assets/d5fee08b-2532-4d05-9dcd-2f27fb70f1f3)
 
 <h3>My name is Aliy🔥
 and I'm a student, from Bogor, Indonesia 🇮🇩</h3>
