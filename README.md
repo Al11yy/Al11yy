@@ -1,9 +1,8 @@
 
-<h1>Hi 👋</h1>
+<h1>Hi 👋</h1> 
 
 ![BannerBuatGit](https://github.com/user-attachments/assets/2577304b-6cb9-437d-ac99-ffe371caf350) 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zbqjirbkysgk7zmxiuglrxbg6i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=212121&interchange=false&bar_color_cover=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h3>My name is Aliy🔥
@@ -11,6 +10,7 @@ and I'm a student, from Bogor, Indonesia 🇮🇩</h3>
 
 
 # 💫 About Me:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zbqjirbkysgk7zmxiuglrxbg6i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=212121&interchange=false&bar_color_cover=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
 - 🏫 I’m A student at [SMK informatika pesat](https://smkpesat.sch.id/)
 - ✨ I love Watching anime and read Manwha
 - 🎮 I'm a Pro gamer on Valorant, Fortnite And Marvel rivals
