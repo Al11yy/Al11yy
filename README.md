@@ -1,7 +1,7 @@
 
 <h1>Hi 👋</h1> 
 
-![BannerBuatGit](https://github.com/user-attachments/assets/2577304b-6cb9-437d-ac99-ffe371caf350) 
+![banner-for-github](https://github.com/user-attachments/assets/8ffc0597-bff8-4f0e-bb03-08b382425d84)
 
 
 <h3>My name is Aliy🔥
