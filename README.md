@@ -12,10 +12,10 @@
 # 💫 About Me:  
 -🎓 **Currently studying** at [SMK Informatika Pesat](https://smkinformatikapesat.sch.id)  
 -✨ **Passionate about** anime and manhwa. <br>
--🎮 **Competitive gamer** in Valorant, Fortnite, and Marvel Rivals. <br>
+-🎮 **Competitive gamer** in Valorant And Fortnite. <br>
 -🌱 **Continuous Learner:** I believe every day is an opportunity to grow and improve.  
 -🎯 **Goals:** I aim to master full-stack and Machine learning or ai, one step at a time.  
--🎉 **15 years old and always ready to explore new adventures.**
+-🎉 **16 years old and always ready to explore new adventures.**
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/690856519989985320) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@liyy356) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/liyy13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lliiyyyyyyy/) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31zbqjirbkysgk7zmxiuglrxbg6i) 
